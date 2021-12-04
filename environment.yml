@@ -1,3 +1,9 @@
-conda install cv2
-conda install numpy
-conda install tkinter
+name: example-environment
+
+dependencies:
+  - python=3.4
+  - numpy
+  - matplotlib
+  - pandas
+  - cv2
+  - tkinter
