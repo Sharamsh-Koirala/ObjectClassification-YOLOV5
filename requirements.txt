@@ -11,3 +11,4 @@ seaborn==0.10.1
 six==1.15.0               # via cycler, python-dateutil
 cv2
 tkinter
+voila
